@@ -2,4 +2,4 @@
 
 This is my first repo 
 <br>
-Auther of this file is premshankar
+Author of this file is premshankar
